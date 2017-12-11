@@ -7,7 +7,7 @@ This is work in progress -- expect things to move and change.
 
 ## Usage
 
-To play with the [notebooks](../blob/notebooks), you may use [lein-jupyter](https://github.com/didiercrunch/lein-jupyter).
+To play with the [notebooks](../blob/master/notebooks), you may use [lein-jupyter](https://github.com/didiercrunch/lein-jupyter).
 
 ## License
 
